@@ -31,7 +31,7 @@ span.header-logo {
   font-family: 'Roboto';
   font-size: 16px;
   font-weight: 500;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   line-height: 1.5;
 }
 
@@ -56,7 +56,7 @@ span.header-logo {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .address-link:hover {
@@ -83,7 +83,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
 }
 .solutions-button {
   background-color: #4d5ae5;
@@ -93,7 +93,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 
@@ -116,7 +116,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .advantages-list-item-text {
@@ -125,7 +125,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .team-list {
@@ -139,7 +139,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -154,7 +154,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .team-list-item-text {
@@ -164,7 +164,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-title {
@@ -174,7 +174,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -184,7 +184,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-list-item-text {
@@ -193,7 +193,7 @@ span.header-logo {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .footer {
@@ -221,5 +221,5 @@ span.footer-logo {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
